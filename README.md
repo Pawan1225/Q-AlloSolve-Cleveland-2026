@@ -152,7 +152,7 @@ Q-AlloSolve-Cleveland-2026/
 ├── README.md
 │
 └── docs/
-    └── Q-AlloSolve_Phase1_Proposal.pdf
+    └── Q-AlloSolve_Fujitsu_2026_Report.pdf
 ~~~
 
 ## Repository Status
@@ -195,3 +195,4 @@ Computational architecture, HPC workflows, performance profiling, infrastructure
 **Problem Statement:** Unlocking Undruggable Targets: Quantum Simulation of Allosteric Signal Propagation
 
 September 2026
+
