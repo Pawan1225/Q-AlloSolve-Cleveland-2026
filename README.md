@@ -135,16 +135,15 @@ The previous work provides technical feasibility evidence and experience with KR
 
 Previous results are treated only as prior-work evidence and are not presented as validated results of the Cleveland Clinic Phase 2 methodology.
 
-## Phase 1 Proposal
+## Previous Work Report
 
-The complete Phase 1 concept proposal is available here:
+The earlier Q-AlloSolve study developed for the **Fujitsu Quantum Simulator Challenge 2026** provides the technical foundation for the present Cleveland Clinic proposal.
 
-### [Q-AlloSolve — Phase 1 Concept Proposal](https://github.com/Pawan1225/Q-AlloSolve-Cleveland-2026/blob/main/docs/Q-AlloSolve_Phase1_Proposal.pdf)
+The report documents prior work in weighted protein residue graphs, AI-guided candidate prioritization, graph-Laplacian quantum signal propagation, QUBO/QAOA optimization, and distributed quantum simulation using mpiQulacs.
 
-Direct document:
+### [Q-AlloSolve — Fujitsu Quantum Simulator Challenge 2026 Report](docs/Q-AlloSolve_Fujitsu_2026_Report.pdf)
 
-https://github.com/Pawan1225/Q-AlloSolve-Cleveland-2026/blob/main/docs/Q-AlloSolve_Phase1_Proposal.pdf
-
+This report is included only as evidence of prior technical work and feasibility. Its results are not presented as validated results of the proposed Cleveland Clinic Phase 2 methodology.
 ## Repository Structure
 
 ~~~text
